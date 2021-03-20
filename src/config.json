@@ -1,10 +1,10 @@
 {
   "api": {
-    "invokeURL": "YOUR API GATEWAY INVOKE URL"
+    "invokeURL": "https://rarp2bsbwk.execute-api.us-east-1.amazonaws.com/dev"
   },
   "cognito": {
     "REGION": "us-east-1",
-    "USER_POOL_ID": "AWS COGNITO USER_POOL_ID",
-    "APP_CLIENT_ID": "AWS COGNITO APP_CLIENT_ID"
+    "USER_POOL_ID": "us-east-1_KDyVpAGaZ",
+    "APP_CLIENT_ID": "7cr7lq1v3ihg5dclpltn23mdeh"
   }
 }
